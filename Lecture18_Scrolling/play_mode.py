@@ -9,9 +9,9 @@ import game_world
 import server
 from boy import Boy
 
-# from background import FixedBackground as Background
+from background import FixedBackground as Background
 # from background import TileBackground as Background
-from background import InfiniteBackground as Background
+# from background import InfiniteBackground as Background
 
 
 
